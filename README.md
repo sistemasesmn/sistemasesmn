@@ -9,7 +9,7 @@
 > 👋 Hola, Soy @sistemasesmn mas precisamente Genaro Villar, docente y a cargo del área TICS de la "Escuela Superior de Música de Neuquén"
 > Llego a GitHub en condicion de autodidacta en esto de la programación. Tengo la finalidad de realizar y poner a prueba pequeñas aplicaciones necesarias para la gestion escolar de estudiantes y docentes. 
 
-![Logo de la Escuela Superior de Música de Neuquén](https://github.dev/sistemasesmn/sistemasesmn/blob/main/assets/img/logo%20chico%20196.png)
+![Logo de la Escuela Superior de Música de Neuquén](/assets/img/logo%20chico%20196.png)
 
 <!---
 sistemasesmn/sistemasesmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
